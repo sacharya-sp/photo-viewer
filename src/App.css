@@ -1,0 +1,5 @@
+/* maybe fix this later */
+.pswp img {
+  max-width: none;
+  object-fit: contain;
+}
